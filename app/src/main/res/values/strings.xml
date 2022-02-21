@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="app_title">Notes</string>
+    <string name="set_dark_mode">set dark mode</string>
+</resources>
