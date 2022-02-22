@@ -8,12 +8,17 @@
         <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/dark_mode_selector.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/darkmode_selector.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_baseline_dark_mode.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_baseline_notes.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_dark_filled.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_dark_mode.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/ic_outline_dark_mode.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/menu_toggle_icon.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/drawable/night_mode_selector_icon.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/layout/app_bar_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/layout/nav_header_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/NoteApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.20520833333333333" />
       </map>
     </option>
   </component>
